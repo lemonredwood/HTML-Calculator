@@ -1,0 +1,42 @@
+.screen{
+    background-color:black;
+    color: aliceblue;
+    height: 9.0rem;
+    font-family:'digital-clock-font';
+}
+.calculator{
+    background-color:light;
+    border-style: solid;
+    border-width: 25px;
+    border-radius: 10px;
+    font-size: 30px;
+    width: 38%;
+    height: 32rem;
+    margin-top: 20vh;
+    margin-left: 20vw;
+    
+}
+.row{
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-radius: 500px;
+    color:white ;
+}
+.col{
+    width:4.5rem;
+}
+.number{
+    background-color: aqua;
+    color:aquamarine;
+}
+.operator{
+    color:oldlace;
+}
+.others{
+    color:gold;
+
+}
+body{
+    background-color: black;
+}
