@@ -40,3 +40,10 @@
 body{
     background-color: black;
 }
+#heading{
+    font-family: 'Kanit', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: aquamarine;
+    font-weight: 999;
+}
